@@ -1,0 +1,30 @@
+[
+    {
+        "type": "linear",
+        "symbol": "AAPL",
+        "num_messages": 100000,
+        "delay": 0.1,
+        "delay_modulus": 1000
+    },
+    {
+        "type": "linear",
+        "symbol": "JCP",
+        "num_messages": 1000,
+        "delay": 0.75,
+        "delay_modulus": 50
+    },
+    {
+        "type": "linear",
+        "symbol": "AMZN",
+        "num_messages": 1000,
+        "delay": 0.1,
+        "delay_modulus": 10
+    },
+    {
+        "type": "linear",
+        "symbol": "GOOG",
+        "num_messages": 200000,
+        "delay": 0.2,
+        "delay_modulus": 10000
+    }
+]

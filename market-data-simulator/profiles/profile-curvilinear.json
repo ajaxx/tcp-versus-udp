@@ -1,0 +1,10 @@
+[
+    {
+        "type": "curvilinear",
+        "symbol" : "AAPL",
+        "num_messages" : 100000,
+        "delay": 0.1,
+        "delay_modulus": 1000,
+        "increment": 5
+    }
+]
